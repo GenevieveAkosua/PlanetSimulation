@@ -11,7 +11,7 @@ All you need is:
 
 ### Credit
 
-Full credit to [![Tech With Tim](https://www.youtube.com/watch?v=WTLPmUHTPqo&list=PLhe4POIKYMzfcs6UOl2JCEg9lPucyyhF5&index=1)] on YouTube, whose tutorial I followed to create this. He wonderfully explains everything you need to create this simulation, including the maths and physics.
+Full credit to [![Tech With Tim](https://www.youtube.com/watch?v=WTLPmUHTPqo&list=PLhe4POIKYMzfcs6UOl2JCEg9lPucyyhF5&index=1)](https://www.youtube.com/watch?v=WTLPmUHTPqo&list=PLhe4POIKYMzfcs6UOl2JCEg9lPucyyhF5&index=1) on YouTube, whose tutorial I followed to create this. He wonderfully explains everything you need to create this simulation, including the maths and physics.
 
 ### Have fun!
 
